@@ -1,0 +1,9 @@
+variable "a_public_key" {}
+variable "a_image" {}
+variable "a_disk" {}
+variable "a_name" {}
+variable "a_subnet" {}
+variable "a_vpc_security_group_id" {}
+variable "a_access_key" {}
+variable "a_secret_key" {}
+variable "a_region" {}
